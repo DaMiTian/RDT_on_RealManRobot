@@ -1,0 +1,1 @@
+python -m scripts.rm_inference --pretrained_model_name_or_path=checkpoints/checkpoint-6000/pytorch_model/mp_rank_00_model_states.pt  --lang_embeddings_path=outs/Pick_on_caton.pt --ctrl_freq=10
